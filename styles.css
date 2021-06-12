@@ -1,0 +1,278 @@
+*{
+  scroll-behavior: smooth;
+  font-family: poppins;
+}
+nav{
+  background-color: #fff;
+}
+nav .D-crane{
+  color: #000;
+}
+.navbar-item{
+  margin-right: 30px;
+  margin-left: 30px;
+}
+.link{
+  font-size: 1.5rem;
+  color: #000;
+}
+.link:hover{
+  color: #000;
+}
+.page{
+  padding-top: 6rem;
+  padding-bottom: 3rem;
+}
+.about{
+  background-image: url(image/montylov-C3CEdU9NzZ0-unsplash.jpg);
+  background-size: cover;
+  padding: 6rem 0;
+}
+.service{
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+}
+.service .card{
+  border-radius: 2rem;
+  text-align: center;
+  border: none;
+  box-shadow: 5px 5px 20px 5px #dcdbdb;
+  margin-bottom: 2rem;
+}
+.service .card .box img{
+  margin-bottom: 3rem;
+}
+.service .card .box .text{
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 2rem;
+}
+.service .card .box p{
+  margin: 2rem;
+}
+.project{
+  padding-top: 6rem;
+  padding-bottom: 4rem;
+  background-color: #b1aaaa;
+}
+.project .my-col{
+  text-align: center;
+}
+.project .text{
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.interview{
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+}
+.interview .walex{
+  background-image: url(image/walex.jpg);
+  background-size: cover;
+  height: 30rem;
+  border: none;
+  border-radius: 2rem;
+}
+.interview .fawizzy{
+  background-size: cover;
+  background-image: url(image/fawizzy.jpg);
+  border-radius: 1rem;
+  border: none;
+  height: 15rem;
+  margin-bottom: 2rem;
+}
+.interview .idowu{
+  background-image: url(image/idowu.jpg);
+  background-size: cover;
+  border: none;
+  border-radius: 1rem;
+  height: 13rem;
+}
+.interview .walex .bbc{
+  margin-top: 25rem;
+  margin-left: 2rem;
+  font-size: 1.5rem;
+  color: #fff;
+}
+.interview .cnn{
+  font-size: 1.5rem;
+  color: #fff;
+  margin-top: 10rem;
+  margin-left: 2rem;
+}
+.partner{
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+}
+.partner .my-col2{
+  text-align: center;
+}
+.work{
+  padding: 6rem 0;
+  background-image: url(image/blue-pattern.jpg);
+  background-size: cover;
+}
+.work .card{
+  border: none;
+  border-radius: 1rem;
+  margin-bottom: 4rem;
+  
+}
+.work .card .card-header1{
+  background-image: url(image/one.PNG);
+  background-size: cover;
+  height: 20rem;
+  border-radius: 1rem;
+}
+.work .card .card-header2{
+  background-image: url(image/two.PNG);
+  background-size: cover;
+  height: 20rem;
+  border-radius: 1rem;
+}
+.work .card .card-header3{
+  background-image: url(image/three.PNG);
+  background-size: cover;
+  border-radius: 1rem;
+  height: 20rem;
+}
+.work .card .card-header4{
+  background-size: cover;
+  background-image: url(image/four.PNG);
+  border-radius: 1rem;
+  height: 20rem;
+}
+.work .card .text{
+  font-size: 1.5rem;
+  margin-left: 2rem;
+  font-weight: 800;
+}
+.work .card .my-p{
+  margin-left: 2rem;
+}
+
+.testimonial{
+  padding: 2rem 2rem;
+}
+.carosel{
+  padding: 3rem 0;
+  background-image: url(image/montylov-C3CEdU9NzZ0-unsplash.jpg);
+  background-size: cover;
+}
+.carosel .container{
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+.carosel #slider{
+  margin-top: 15%;
+}
+.content{
+  text-align: center;
+  padding: 30px;
+  color: #000;
+  border-radius: 25px;
+  background-color: #f1f1f1;
+}
+.carosel .img-area{
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+  display: inline-block;
+  overflow: hidden;
+}
+.carosel .img-area img{
+  width: 100%;
+}
+.contact{
+  padding: 6rem 0;
+}
+.contact .items{
+  margin-bottom: 2rem;
+
+}
+.contact .input{
+  padding: 18px;
+  border-radius: 10rem;
+  border: none;
+  overflow: visible;
+  background: #f1f1f1;
+}
+.contact .input:focus{
+  outline: none;
+}
+.contact .text-area{
+  border: none;
+  overflow: visible;
+  border-bottom: 1rem;
+  height: 14rem;
+  padding: 18px;
+  background: #f1f1f1;
+  border-radius: 1rem;
+}
+.contact .text-area:focus{
+  outline: none;
+}
+.contact img{
+  height: 28rem;
+  border-radius: 2rem;
+  box-shadow: 0px 20px 7px 0 #f1f1f1;
+}
+.contact2{
+  padding: 3rem 0;
+  background-color: #4C40F7;
+}
+.contact2 .my-col3{
+  text-align: center;
+}
+.contact2 .box h5{
+  font-size: 1.5rem;
+  margin-top: 1rem;
+}
+.contact2 .box p{
+  font-size: 1rem;
+  font-weight: 700;
+}
+.contact2 .card{
+  text-align: center;
+  background: #fff;
+  border-radius: 2rem;
+  margin-bottom: 2rem;
+
+
+}
+.contact2 .input{
+  padding: 18px;
+  border-radius: 10rem;
+  border: none;
+  overflow: visible;
+  background: #f1f1f1;
+  width: 77%;
+  margin-bottom: 1rem;
+  margin-right: 2rem;
+}
+.contact2 .input:focus{
+  outline: none;
+}
+
+@media (max-width: 425px){
+  nav{
+    background: grey;
+    opacity: 0.5;
+  }
+  nav .D-crane{
+    color: #fff;
+  }
+  .interview .walex{
+    margin-bottom: 2rem;
+  }
+  .contactform{
+    margin-bottom: 2rem;
+  }
+  .link{
+    color: #fff;
+  }
+  .contact2 .input{
+    width: 95%;
+    margin-right: 0;
+  }
+}
